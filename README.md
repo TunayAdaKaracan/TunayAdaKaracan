@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on *nothing*
 - 🌱 Currently learning C/C++ and Rust
 - 🎓 I plan to learn Go and TS as well.
-- 📫 How to reach me: @kutuptilkisi@sh.tilkininevi.com
 - ⚡ Fun fact: Arctic foxes have built-in "snowshoes"—their furry paw pads act like natural insulation, letting them walk on ice without freezing, while also muffling their steps to sneak up on prey like a fluffy, four-legged ninja.
 
 # 💻 Tech Stack:
