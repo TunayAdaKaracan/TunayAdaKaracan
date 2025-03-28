@@ -2,7 +2,7 @@
 - ⌨️ Intermediate Java and Python Developer
 - 🔭 I’m currently working on *nothing*
 - 🌱 Currently learning C and Zig
-- 🎓 I plan to learn Go and TS as well.
+- 🎓 I plan to learn Go and Kotlin as well.
 - ⚡ Fun fact: Arctic foxes have built-in "snowshoes"—their furry paw pads act like natural insulation, letting them walk on ice without freezing, while also muffling their steps to sneak up on prey like a fluffy, four-legged ninja.
 
 # 💻 Tech Stack:
