@@ -1,7 +1,6 @@
 # 💫 About Me:
 - ⌨️ C, Zig, Java & Python developer
 - 🌱 Interested in CPUs and FPGAs
-- 🌱 Planning to learn minecraft modding
 - 🔭 I’m currently working on *nothing*
 - 🎓 Studying Computer Engineering @ PoliTO
 - ⚡ Fun fact: Arctic foxes have built-in "snowshoes"—their furry paw pads act like natural insulation, letting them walk on ice without freezing, while also muffling their steps to sneak up on prey like a fluffy, four-legged ninja.
